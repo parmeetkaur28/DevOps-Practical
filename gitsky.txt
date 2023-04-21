@@ -1,5 +1,5 @@
-git config --global user.name "souravmalviya"
-git config --global user.email souravmalviya....
+git config --global user.name "pk"
+git config --global user.email pk....
 git config --list
 pwd //to se where the file will be saved 
 mkdir git_demo
